@@ -6,6 +6,8 @@ Program odczytuje dokument jako hierarchiczne drzewo XML, zachowując relacje mi
 
 Workbench pozwala wygodnie poruszać się po strukturze mapy i sprawdzać treść wybranego węzła wraz z jego kontekstem. Projekt pokazuje praktyczne wykorzystanie parsowania XML, struktur drzewiastych, transformacji danych i budowy interfejsu użytkownika.
 
+Powtarzalne części dokumentacji są opisywane w drzewie za pomocą metadanych. Aplikacja interpretuje te oznaczenia i na ich podstawie renderuje gotowe, uporządkowane fragmenty dokumentu. Pozwala to oddzielić strukturę oraz reguły dokumentacji od jej końcowej prezentacji i ograniczyć ręczne wykonywanie powtarzalnych czynności.
+
 ![Opis obrazu](assets/images/widok_01.jpg)
 
 Interfejs użytkownika został napisany w Pythonie z wykorzystaniem frameworka Streamlit. Elementy HTML i CSS odpowiadają za czytelną prezentację oraz formatowanie wyrenderowanej zawartości dokumentu.
