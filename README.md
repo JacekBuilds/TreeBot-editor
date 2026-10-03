@@ -8,4 +8,4 @@ Workbench pozwala wygodnie poruszać się po strukturze mapy i sprawdzać treś�
 
 ![Opis obrazu](assets/images/widok_01.jpg)
 
-![Opis obrazu](assets/images/widok_02.png)
+![Opis obrazu](assets/images/widok-02.png)
