@@ -6,4 +6,6 @@ Program odczytuje dokument jako hierarchiczne drzewo XML, zachowując relacje mi
 
 Workbench pozwala wygodnie poruszać się po strukturze mapy i sprawdzać treść wybranego węzła wraz z jego kontekstem. Projekt pokazuje praktyczne wykorzystanie parsowania XML, struktur drzewiastych, transformacji danych i budowy interfejsu użytkownika.
 
-![Opis obrazu](assets/images/nazwa-obrazu.png)
+![Opis obrazu](assets/images/widok_01.jpg)
+
+![Opis obrazu](assets/images/widok_02.png)
